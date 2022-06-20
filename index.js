@@ -19,6 +19,7 @@
     
 // ReactDOM.render( navbar, document.getElementById("root"));
 
+
 const page = (
     <div>
         <h1>hello, i'm sophia</h1>
